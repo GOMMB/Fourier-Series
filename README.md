@@ -16,3 +16,6 @@ You can change the <code>SPEED</code> and/or <code>VECTORS</code> variables insi
 
 * **Left-Click:** Toggles whether the circles and  rotating lines are shown during the animation.
 * **Right-Click:** Removes all currently drawn points.
+
+
+<a href="https://youtu.be/-qgreAUpPwM">This</a> video by 3Blue1Brown is my inspiration for the project.
