@@ -4,7 +4,7 @@ from svgpathtools import *
 from functools import reduce
 
 
-class Svg2points:
+class Svg2points: # Partial credit of this class goes to https://github.com/mathandy/svgpathtools/blob/master/examples/compute-many-points-quickly-using-numpy-arrays.py
 
     pts = None
 
