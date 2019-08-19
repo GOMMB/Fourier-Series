@@ -1,7 +1,7 @@
 from p5 import *
 import scipy
 from scipy.integrate import simps
-from Svg2points import Svg2points
+from Svg2points.Svg2points import Svg2points
 import numpy as np
 
 SPEED = 0.001
